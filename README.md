@@ -4,7 +4,7 @@ Homebrew tap for the Vindhya Data Science build of the [Skip](https://skip.dev) 
 The `skip` cask installs `skip-macos.zip` from a
 [vindhyadatascience/skipstone](https://github.com/vindhyadatascience/skipstone/releases)
 release (AGPL-3.0; the matching tag in that repository is the corresponding source).
-`skip version` reports the VDS version, for example `Skip version 1.9.12-vds.1`.
+`skip version` reports the VDS version, for example `Skip version 1.9.19-vds.7`.
 
 It replaces the stock `skiptools/skip` cask, so remove that first:
 
