@@ -3,8 +3,8 @@
 # "#{version}" (AGPL-3.0; that tag is the corresponding source). It replaces the
 # skiptools/skip cask: uninstall that first (`brew uninstall --cask skip`).
 cask "skip" do
-  version "1.9.19-vds.9"
-  sha256 "0c89d524ef7f1ce1cfb4bb7be8a1a88c415a328a5696542fa6d3124d97a09f2f"
+  version "1.9.20-vds.1"
+  sha256 "e98383bbe5eaf52e18fcc2930c31f0354f13e1f0f069fba1cab5ee4f6a771809"
 
   url "https://github.com/vindhyadatascience/skipstone/releases/download/#{version}/skip-macos.zip"
   name "Skip (VDS build)"
